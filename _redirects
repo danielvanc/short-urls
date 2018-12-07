@@ -1,9 +1,5 @@
-/Uxoae     https://google.com
-/go        https://google.com
-/cli       https://example.com/from-cli
-/example   https://example.com/changed-hooray
-/foo       https://example.com/foo
-/demo      https://www.youtube.com/watch?v=HL6paXyx6hM
-/edit      https://github.com/danielvanc/short-urls/edit/master/_redirects
+/go     https://google.com
+/me     https://www.danielvanc.com
+/short     https://github.com/danielvanc/short-urls
 
 /* https://google.com
