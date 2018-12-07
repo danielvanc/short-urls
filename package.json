@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "baseUrl": "https://dvanc.co"
   "scripts": {
     "shorten": "netlify-shortener"
   },
