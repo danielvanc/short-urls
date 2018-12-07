@@ -1,0 +1,23 @@
+{
+  "name": "short-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvanc/short-urls.git"
+  },
+  "keywords": [],
+  "author": "Daniel Van Cuylenburg <email@danielvanc.com> (http://danielvanc.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielvanc/short-urls/issues"
+  },
+  "homepage": "https://github.com/danielvanc/short-urls#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.2"
+  }
+}
